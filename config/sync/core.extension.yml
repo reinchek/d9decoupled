@@ -12,6 +12,7 @@ module:
   contextual: 0
   datetime: 0
   dblog: 0
+  devel_generate: 0
   dynamic_page_cache: 0
   editor: 0
   field: 0
@@ -34,6 +35,8 @@ module:
   path_alias: 0
   quickedit: 0
   rdf: 0
+  realistic_dummy_content: 0
+  realistic_dummy_content_api: 0
   search: 0
   serialization: 0
   shortcut: 0
